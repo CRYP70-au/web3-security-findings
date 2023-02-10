@@ -1,3 +1,7 @@
+Security findings now published to: https://fortcypress.io/ (SimpleSmart contracts deployed to Goerli as well)
+
+
+
 ## Public Audit Findings
 
 Below are a few of my security audit findings which I would consider to be showcase worthy. 
